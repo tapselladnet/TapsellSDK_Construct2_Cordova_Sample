@@ -1,11 +1,12 @@
 {
   "name": "tapsell-construct2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tapsell cordova sdk for Construct2",
   "cordova": {
     "id": "tapsell-construct2",
     "platforms": [
-      "android"
+      "android",
+      "ios"
     ]
   },
   "repository": {
@@ -17,7 +18,8 @@
     "video",
     "ad",
     "ecosystem:cordova",
-    "cordova-android"
+    "cordova-android",
+    "cordova-ios"
   ],
   "engines": [
     {
