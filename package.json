@@ -1,6 +1,6 @@
 {
   "name": "tapsell-construct2",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Tapsell cordova sdk for Construct2",
   "cordova": {
     "id": "tapsell-construct2",
